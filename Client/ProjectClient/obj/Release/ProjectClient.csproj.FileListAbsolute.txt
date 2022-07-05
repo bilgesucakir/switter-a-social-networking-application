@@ -1,0 +1,10 @@
+C:\Users\yasin\Desktop\ENSONNN\ProjectClient\ProjectClient\bin\Release\ProjectClient.exe.config
+C:\Users\yasin\Desktop\ENSONNN\ProjectClient\ProjectClient\bin\Release\ProjectClient.exe
+C:\Users\yasin\Desktop\ENSONNN\ProjectClient\ProjectClient\bin\Release\ProjectClient.pdb
+C:\Users\yasin\Desktop\ENSONNN\ProjectClient\ProjectClient\obj\Release\ProjectClient.csproj.AssemblyReference.cache
+C:\Users\yasin\Desktop\ENSONNN\ProjectClient\ProjectClient\obj\Release\ProjectClient.Form1.resources
+C:\Users\yasin\Desktop\ENSONNN\ProjectClient\ProjectClient\obj\Release\ProjectClient.Properties.Resources.resources
+C:\Users\yasin\Desktop\ENSONNN\ProjectClient\ProjectClient\obj\Release\ProjectClient.csproj.GenerateResource.cache
+C:\Users\yasin\Desktop\ENSONNN\ProjectClient\ProjectClient\obj\Release\ProjectClient.csproj.CoreCompileInputs.cache
+C:\Users\yasin\Desktop\ENSONNN\ProjectClient\ProjectClient\obj\Release\ProjectClient.exe
+C:\Users\yasin\Desktop\ENSONNN\ProjectClient\ProjectClient\obj\Release\ProjectClient.pdb

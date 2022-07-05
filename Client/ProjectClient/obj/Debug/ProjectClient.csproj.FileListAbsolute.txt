@@ -1,0 +1,142 @@
+c:\users\user\documents\visual studio 2015\Projects\ProjectClient\ProjectClient\bin\Debug\ProjectClient.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ProjectClient\ProjectClient\bin\Debug\ProjectClient.exe
+c:\users\user\documents\visual studio 2015\Projects\ProjectClient\ProjectClient\bin\Debug\ProjectClient.pdb
+c:\users\user\documents\visual studio 2015\Projects\ProjectClient\ProjectClient\obj\Debug\ProjectClient.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\ProjectClient\ProjectClient\obj\Debug\ProjectClient.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\ProjectClient\ProjectClient\obj\Debug\ProjectClient.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\ProjectClient\ProjectClient\obj\Debug\ProjectClient.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\ProjectClient\ProjectClient\obj\Debug\ProjectClient.exe
+c:\users\user\documents\visual studio 2015\Projects\ProjectClient\ProjectClient\obj\Debug\ProjectClient.pdb
+C:\Users\deniz\Desktop\Soph2\CS408\PROJEE\ProjectClient\ProjectClient\ProjectClient\bin\Debug\ProjectClient.exe.config
+C:\Users\deniz\Desktop\Soph2\CS408\PROJEE\ProjectClient\ProjectClient\ProjectClient\bin\Debug\ProjectClient.exe
+C:\Users\deniz\Desktop\Soph2\CS408\PROJEE\ProjectClient\ProjectClient\ProjectClient\bin\Debug\ProjectClient.pdb
+C:\Users\deniz\Desktop\Soph2\CS408\PROJEE\ProjectClient\ProjectClient\ProjectClient\obj\Debug\ProjectClient.csproj.AssemblyReference.cache
+C:\Users\deniz\Desktop\Soph2\CS408\PROJEE\ProjectClient\ProjectClient\ProjectClient\obj\Debug\ProjectClient.Form1.resources
+C:\Users\deniz\Desktop\Soph2\CS408\PROJEE\ProjectClient\ProjectClient\ProjectClient\obj\Debug\ProjectClient.Properties.Resources.resources
+C:\Users\deniz\Desktop\Soph2\CS408\PROJEE\ProjectClient\ProjectClient\ProjectClient\obj\Debug\ProjectClient.csproj.GenerateResource.cache
+C:\Users\deniz\Desktop\Soph2\CS408\PROJEE\ProjectClient\ProjectClient\ProjectClient\obj\Debug\ProjectClient.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\Soph2\CS408\PROJEE\ProjectClient\ProjectClient\ProjectClient\obj\Debug\ProjectClient.exe
+C:\Users\deniz\Desktop\Soph2\CS408\PROJEE\ProjectClient\ProjectClient\ProjectClient\obj\Debug\ProjectClient.pdb
+C:\Users\USER\Documents\fall_2021\cs408\ProjectClient\ProjectClient\ProjectClient\bin\Debug\ProjectClient.exe.config
+C:\Users\USER\Documents\fall_2021\cs408\ProjectClient\ProjectClient\ProjectClient\obj\Debug\ProjectClient.exe
+C:\Users\USER\Documents\fall_2021\cs408\ProjectClient\ProjectClient\ProjectClient\obj\Debug\ProjectClient.pdb
+C:\Users\USER\Documents\fall_2021\cs408\ProjectClient\ProjectClient\ProjectClient\bin\Debug\ProjectClient.exe
+C:\Users\USER\Documents\fall_2021\cs408\ProjectClient\ProjectClient\ProjectClient\bin\Debug\ProjectClient.pdb
+C:\Users\USER\Documents\fall_2021\cs408\ProjectClient\ProjectClient\ProjectClient\obj\Debug\ProjectClient.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\fall_2021\cs408\ProjectClient\ProjectClient\ProjectClient\obj\Debug\ProjectClient.Form1.resources
+C:\Users\USER\Documents\fall_2021\cs408\ProjectClient\ProjectClient\ProjectClient\obj\Debug\ProjectClient.Properties.Resources.resources
+C:\Users\USER\Documents\fall_2021\cs408\ProjectClient\ProjectClient\ProjectClient\obj\Debug\ProjectClient.csproj.GenerateResource.Cache
+C:\Users\yasin\Desktop\ProjectClient\ProjectClient\ProjectClient\ProjectClient\bin\Debug\ProjectClient.exe.config
+C:\Users\yasin\Desktop\ProjectClient\ProjectClient\ProjectClient\ProjectClient\bin\Debug\ProjectClient.exe
+C:\Users\yasin\Desktop\ProjectClient\ProjectClient\ProjectClient\ProjectClient\bin\Debug\ProjectClient.pdb
+C:\Users\yasin\Desktop\ProjectClient\ProjectClient\ProjectClient\ProjectClient\obj\Debug\ProjectClient.csproj.AssemblyReference.cache
+C:\Users\yasin\Desktop\ProjectClient\ProjectClient\ProjectClient\ProjectClient\obj\Debug\ProjectClient.Form1.resources
+C:\Users\yasin\Desktop\ProjectClient\ProjectClient\ProjectClient\ProjectClient\obj\Debug\ProjectClient.Properties.Resources.resources
+C:\Users\yasin\Desktop\ProjectClient\ProjectClient\ProjectClient\ProjectClient\obj\Debug\ProjectClient.csproj.GenerateResource.cache
+C:\Users\yasin\Desktop\ProjectClient\ProjectClient\ProjectClient\ProjectClient\obj\Debug\ProjectClient.csproj.CoreCompileInputs.cache
+C:\Users\yasin\Desktop\ProjectClient\ProjectClient\ProjectClient\ProjectClient\obj\Debug\ProjectClient.exe
+C:\Users\yasin\Desktop\ProjectClient\ProjectClient\ProjectClient\ProjectClient\obj\Debug\ProjectClient.pdb
+C:\Users\deniz\Desktop\Soph2\CS408\ProjeSon\ProjectClient\ProjectClient\bin\Debug\ProjectClient.exe.config
+C:\Users\deniz\Desktop\Soph2\CS408\ProjeSon\ProjectClient\ProjectClient\bin\Debug\ProjectClient.exe
+C:\Users\deniz\Desktop\Soph2\CS408\ProjeSon\ProjectClient\ProjectClient\bin\Debug\ProjectClient.pdb
+C:\Users\deniz\Desktop\Soph2\CS408\ProjeSon\ProjectClient\ProjectClient\obj\Debug\ProjectClient.csproj.AssemblyReference.cache
+C:\Users\deniz\Desktop\Soph2\CS408\ProjeSon\ProjectClient\ProjectClient\obj\Debug\ProjectClient.Form1.resources
+C:\Users\deniz\Desktop\Soph2\CS408\ProjeSon\ProjectClient\ProjectClient\obj\Debug\ProjectClient.Properties.Resources.resources
+C:\Users\deniz\Desktop\Soph2\CS408\ProjeSon\ProjectClient\ProjectClient\obj\Debug\ProjectClient.csproj.GenerateResource.cache
+C:\Users\deniz\Desktop\Soph2\CS408\ProjeSon\ProjectClient\ProjectClient\obj\Debug\ProjectClient.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\Soph2\CS408\ProjeSon\ProjectClient\ProjectClient\obj\Debug\ProjectClient.exe
+C:\Users\deniz\Desktop\Soph2\CS408\ProjeSon\ProjectClient\ProjectClient\obj\Debug\ProjectClient.pdb
+C:\Users\USER\Documents\fall_2021\cs408\project\recent\daha son versiyon CLIENT\ProjectClient\ProjectClient\bin\Debug\ProjectClient.exe.config
+C:\Users\USER\Documents\fall_2021\cs408\project\recent\daha son versiyon CLIENT\ProjectClient\ProjectClient\obj\Debug\ProjectClient.exe
+C:\Users\USER\Documents\fall_2021\cs408\project\recent\daha son versiyon CLIENT\ProjectClient\ProjectClient\obj\Debug\ProjectClient.pdb
+C:\Users\USER\Documents\fall_2021\cs408\project\recent\daha son versiyon CLIENT\ProjectClient\ProjectClient\bin\Debug\ProjectClient.exe
+C:\Users\USER\Documents\fall_2021\cs408\project\recent\daha son versiyon CLIENT\ProjectClient\ProjectClient\bin\Debug\ProjectClient.pdb
+C:\Users\USER\Documents\fall_2021\cs408\project\recent\daha son versiyon CLIENT\ProjectClient\ProjectClient\obj\Debug\ProjectClient.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\fall_2021\cs408\project\recent\daha son versiyon CLIENT\ProjectClient\ProjectClient\obj\Debug\ProjectClient.Form1.resources
+C:\Users\USER\Documents\fall_2021\cs408\project\recent\daha son versiyon CLIENT\ProjectClient\ProjectClient\obj\Debug\ProjectClient.Properties.Resources.resources
+C:\Users\USER\Documents\fall_2021\cs408\project\recent\daha son versiyon CLIENT\ProjectClient\ProjectClient\obj\Debug\ProjectClient.csproj.GenerateResource.Cache
+C:\Users\yasin\Desktop\proje\daha son versiyon CLIENT_2\daha son versiyon CLIENT\ProjectClient\ProjectClient\bin\Debug\ProjectClient.exe.config
+C:\Users\yasin\Desktop\proje\daha son versiyon CLIENT_2\daha son versiyon CLIENT\ProjectClient\ProjectClient\bin\Debug\ProjectClient.exe
+C:\Users\yasin\Desktop\proje\daha son versiyon CLIENT_2\daha son versiyon CLIENT\ProjectClient\ProjectClient\bin\Debug\ProjectClient.pdb
+C:\Users\yasin\Desktop\proje\daha son versiyon CLIENT_2\daha son versiyon CLIENT\ProjectClient\ProjectClient\obj\Debug\ProjectClient.csproj.AssemblyReference.cache
+C:\Users\yasin\Desktop\proje\daha son versiyon CLIENT_2\daha son versiyon CLIENT\ProjectClient\ProjectClient\obj\Debug\ProjectClient.Form1.resources
+C:\Users\yasin\Desktop\proje\daha son versiyon CLIENT_2\daha son versiyon CLIENT\ProjectClient\ProjectClient\obj\Debug\ProjectClient.Properties.Resources.resources
+C:\Users\yasin\Desktop\proje\daha son versiyon CLIENT_2\daha son versiyon CLIENT\ProjectClient\ProjectClient\obj\Debug\ProjectClient.csproj.GenerateResource.cache
+C:\Users\yasin\Desktop\proje\daha son versiyon CLIENT_2\daha son versiyon CLIENT\ProjectClient\ProjectClient\obj\Debug\ProjectClient.csproj.CoreCompileInputs.cache
+C:\Users\yasin\Desktop\proje\daha son versiyon CLIENT_2\daha son versiyon CLIENT\ProjectClient\ProjectClient\obj\Debug\ProjectClient.exe
+C:\Users\yasin\Desktop\proje\daha son versiyon CLIENT_2\daha son versiyon CLIENT\ProjectClient\ProjectClient\obj\Debug\ProjectClient.pdb
+C:\Users\deniz\Desktop\Soph2\CS408\ProjeSon\daha son versiyon CLIENT_2\daha son versiyon CLIENT_2\daha son versiyon CLIENT\ProjectClient\ProjectClient\bin\Debug\ProjectClient.exe.config
+C:\Users\deniz\Desktop\Soph2\CS408\ProjeSon\daha son versiyon CLIENT_2\daha son versiyon CLIENT_2\daha son versiyon CLIENT\ProjectClient\ProjectClient\obj\Debug\ProjectClient.exe
+C:\Users\deniz\Desktop\Soph2\CS408\ProjeSon\daha son versiyon CLIENT_2\daha son versiyon CLIENT_2\daha son versiyon CLIENT\ProjectClient\ProjectClient\obj\Debug\ProjectClient.pdb
+C:\Users\deniz\Desktop\Soph2\CS408\ProjeSon\daha son versiyon CLIENT_2\daha son versiyon CLIENT_2\daha son versiyon CLIENT\ProjectClient\ProjectClient\bin\Debug\ProjectClient.exe
+C:\Users\deniz\Desktop\Soph2\CS408\ProjeSon\daha son versiyon CLIENT_2\daha son versiyon CLIENT_2\daha son versiyon CLIENT\ProjectClient\ProjectClient\bin\Debug\ProjectClient.pdb
+C:\Users\deniz\Desktop\Soph2\CS408\ProjeSon\daha son versiyon CLIENT_2\daha son versiyon CLIENT_2\daha son versiyon CLIENT\ProjectClient\ProjectClient\obj\Debug\ProjectClient.csprojResolveAssemblyReference.cache
+C:\Users\deniz\Desktop\Soph2\CS408\ProjeSon\daha son versiyon CLIENT_2\daha son versiyon CLIENT_2\daha son versiyon CLIENT\ProjectClient\ProjectClient\obj\Debug\ProjectClient.Form1.resources
+C:\Users\deniz\Desktop\Soph2\CS408\ProjeSon\daha son versiyon CLIENT_2\daha son versiyon CLIENT_2\daha son versiyon CLIENT\ProjectClient\ProjectClient\obj\Debug\ProjectClient.Properties.Resources.resources
+C:\Users\deniz\Desktop\Soph2\CS408\ProjeSon\daha son versiyon CLIENT_2\daha son versiyon CLIENT_2\daha son versiyon CLIENT\ProjectClient\ProjectClient\obj\Debug\ProjectClient.csproj.GenerateResource.Cache
+C:\Users\yasin\Desktop\ENSONNN\ProjectClient\ProjectClient\bin\Debug\ProjectClient.exe.config
+C:\Users\yasin\Desktop\ENSONNN\ProjectClient\ProjectClient\bin\Debug\ProjectClient.exe
+C:\Users\yasin\Desktop\ENSONNN\ProjectClient\ProjectClient\bin\Debug\ProjectClient.pdb
+C:\Users\yasin\Desktop\ENSONNN\ProjectClient\ProjectClient\obj\Debug\ProjectClient.csproj.AssemblyReference.cache
+C:\Users\yasin\Desktop\ENSONNN\ProjectClient\ProjectClient\obj\Debug\ProjectClient.Form1.resources
+C:\Users\yasin\Desktop\ENSONNN\ProjectClient\ProjectClient\obj\Debug\ProjectClient.Properties.Resources.resources
+C:\Users\yasin\Desktop\ENSONNN\ProjectClient\ProjectClient\obj\Debug\ProjectClient.csproj.GenerateResource.cache
+C:\Users\yasin\Desktop\ENSONNN\ProjectClient\ProjectClient\obj\Debug\ProjectClient.csproj.CoreCompileInputs.cache
+C:\Users\yasin\Desktop\ENSONNN\ProjectClient\ProjectClient\obj\Debug\ProjectClient.exe
+C:\Users\yasin\Desktop\ENSONNN\ProjectClient\ProjectClient\obj\Debug\ProjectClient.pdb
+C:\Users\yasin\Desktop\proje\yasinughur_Ughur_Yasin_Step1\yasinughur_Ughur_Yasin_Step1\Client\ProjectClient\bin\Debug\ProjectClient.exe.config
+C:\Users\yasin\Desktop\proje\yasinughur_Ughur_Yasin_Step1\yasinughur_Ughur_Yasin_Step1\Client\ProjectClient\bin\Debug\ProjectClient.exe
+C:\Users\yasin\Desktop\proje\yasinughur_Ughur_Yasin_Step1\yasinughur_Ughur_Yasin_Step1\Client\ProjectClient\bin\Debug\ProjectClient.pdb
+C:\Users\yasin\Desktop\proje\yasinughur_Ughur_Yasin_Step1\yasinughur_Ughur_Yasin_Step1\Client\ProjectClient\obj\Debug\ProjectClient.csproj.AssemblyReference.cache
+C:\Users\yasin\Desktop\proje\yasinughur_Ughur_Yasin_Step1\yasinughur_Ughur_Yasin_Step1\Client\ProjectClient\obj\Debug\ProjectClient.Form1.resources
+C:\Users\yasin\Desktop\proje\yasinughur_Ughur_Yasin_Step1\yasinughur_Ughur_Yasin_Step1\Client\ProjectClient\obj\Debug\ProjectClient.Properties.Resources.resources
+C:\Users\yasin\Desktop\proje\yasinughur_Ughur_Yasin_Step1\yasinughur_Ughur_Yasin_Step1\Client\ProjectClient\obj\Debug\ProjectClient.csproj.GenerateResource.cache
+C:\Users\yasin\Desktop\proje\yasinughur_Ughur_Yasin_Step1\yasinughur_Ughur_Yasin_Step1\Client\ProjectClient\obj\Debug\ProjectClient.csproj.CoreCompileInputs.cache
+C:\Users\yasin\Desktop\proje\yasinughur_Ughur_Yasin_Step1\yasinughur_Ughur_Yasin_Step1\Client\ProjectClient\obj\Debug\ProjectClient.exe
+C:\Users\yasin\Desktop\proje\yasinughur_Ughur_Yasin_Step1\yasinughur_Ughur_Yasin_Step1\Client\ProjectClient\obj\Debug\ProjectClient.pdb
+C:\Users\USER\Downloads\proje\yasinughur_Ughur_Yasin_Step1\yasinughur_Ughur_Yasin_Step1\Client\ProjectClient\bin\Debug\ProjectClient.exe.config
+C:\Users\USER\Downloads\proje\yasinughur_Ughur_Yasin_Step1\yasinughur_Ughur_Yasin_Step1\Client\ProjectClient\obj\Debug\ProjectClient.exe
+C:\Users\USER\Downloads\proje\yasinughur_Ughur_Yasin_Step1\yasinughur_Ughur_Yasin_Step1\Client\ProjectClient\obj\Debug\ProjectClient.pdb
+C:\Users\USER\Downloads\proje\yasinughur_Ughur_Yasin_Step1\yasinughur_Ughur_Yasin_Step1\Client\ProjectClient\bin\Debug\ProjectClient.exe
+C:\Users\USER\Downloads\proje\yasinughur_Ughur_Yasin_Step1\yasinughur_Ughur_Yasin_Step1\Client\ProjectClient\bin\Debug\ProjectClient.pdb
+C:\Users\USER\Downloads\proje\yasinughur_Ughur_Yasin_Step1\yasinughur_Ughur_Yasin_Step1\Client\ProjectClient\obj\Debug\ProjectClient.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\proje\yasinughur_Ughur_Yasin_Step1\yasinughur_Ughur_Yasin_Step1\Client\ProjectClient\obj\Debug\ProjectClient.Form1.resources
+C:\Users\USER\Downloads\proje\yasinughur_Ughur_Yasin_Step1\yasinughur_Ughur_Yasin_Step1\Client\ProjectClient\obj\Debug\ProjectClient.Properties.Resources.resources
+C:\Users\USER\Downloads\proje\yasinughur_Ughur_Yasin_Step1\yasinughur_Ughur_Yasin_Step1\Client\ProjectClient\obj\Debug\ProjectClient.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\fall_2021\cs408\project\cs408_step_2_last_version\Client\ProjectClient\bin\Debug\ProjectClient.exe.config
+C:\Users\USER\Documents\fall_2021\cs408\project\cs408_step_2_last_version\Client\ProjectClient\obj\Debug\ProjectClient.exe
+C:\Users\USER\Documents\fall_2021\cs408\project\cs408_step_2_last_version\Client\ProjectClient\obj\Debug\ProjectClient.pdb
+C:\Users\USER\Documents\fall_2021\cs408\project\cs408_step_2_last_version\Client\ProjectClient\bin\Debug\ProjectClient.exe
+C:\Users\USER\Documents\fall_2021\cs408\project\cs408_step_2_last_version\Client\ProjectClient\bin\Debug\ProjectClient.pdb
+C:\Users\USER\Documents\fall_2021\cs408\project\cs408_step_2_last_version\Client\ProjectClient\obj\Debug\ProjectClient.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\fall_2021\cs408\project\cs408_step_2_last_version\Client\ProjectClient\obj\Debug\ProjectClient.Form1.resources
+C:\Users\USER\Documents\fall_2021\cs408\project\cs408_step_2_last_version\Client\ProjectClient\obj\Debug\ProjectClient.Properties.Resources.resources
+C:\Users\USER\Documents\fall_2021\cs408\project\cs408_step_2_last_version\Client\ProjectClient\obj\Debug\ProjectClient.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\fall_2021\cs408\project\bilgesucakir_Cakir_Bilgesu_Step2\Client\ProjectClient\bin\Debug\ProjectClient.exe.config
+C:\Users\USER\Documents\fall_2021\cs408\project\bilgesucakir_Cakir_Bilgesu_Step2\Client\ProjectClient\obj\Debug\ProjectClient.exe
+C:\Users\USER\Documents\fall_2021\cs408\project\bilgesucakir_Cakir_Bilgesu_Step2\Client\ProjectClient\obj\Debug\ProjectClient.pdb
+C:\Users\USER\Documents\fall_2021\cs408\project\bilgesucakir_Cakir_Bilgesu_Step2\Client\ProjectClient\bin\Debug\ProjectClient.exe
+C:\Users\USER\Documents\fall_2021\cs408\project\bilgesucakir_Cakir_Bilgesu_Step2\Client\ProjectClient\bin\Debug\ProjectClient.pdb
+C:\Users\USER\Documents\fall_2021\cs408\project\bilgesucakir_Cakir_Bilgesu_Step2\Client\ProjectClient\obj\Debug\ProjectClient.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\fall_2021\cs408\project\bilgesucakir_Cakir_Bilgesu_Step2\Client\ProjectClient\obj\Debug\ProjectClient.Form1.resources
+C:\Users\USER\Documents\fall_2021\cs408\project\bilgesucakir_Cakir_Bilgesu_Step2\Client\ProjectClient\obj\Debug\ProjectClient.Properties.Resources.resources
+C:\Users\USER\Documents\fall_2021\cs408\project\bilgesucakir_Cakir_Bilgesu_Step2\Client\ProjectClient\obj\Debug\ProjectClient.csproj.GenerateResource.Cache
+C:\Users\deniz\Desktop\Soph2\CS408\proje\zort\Client_son_hali\Client\ProjectClient\bin\Debug\ProjectClient.exe.config
+C:\Users\deniz\Desktop\Soph2\CS408\proje\zort\Client_son_hali\Client\ProjectClient\bin\Debug\ProjectClient.exe
+C:\Users\deniz\Desktop\Soph2\CS408\proje\zort\Client_son_hali\Client\ProjectClient\bin\Debug\ProjectClient.pdb
+C:\Users\deniz\Desktop\Soph2\CS408\proje\zort\Client_son_hali\Client\ProjectClient\obj\Debug\ProjectClient.csproj.AssemblyReference.cache
+C:\Users\deniz\Desktop\Soph2\CS408\proje\zort\Client_son_hali\Client\ProjectClient\obj\Debug\ProjectClient.Form1.resources
+C:\Users\deniz\Desktop\Soph2\CS408\proje\zort\Client_son_hali\Client\ProjectClient\obj\Debug\ProjectClient.Properties.Resources.resources
+C:\Users\deniz\Desktop\Soph2\CS408\proje\zort\Client_son_hali\Client\ProjectClient\obj\Debug\ProjectClient.csproj.GenerateResource.cache
+C:\Users\deniz\Desktop\Soph2\CS408\proje\zort\Client_son_hali\Client\ProjectClient\obj\Debug\ProjectClient.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\Soph2\CS408\proje\zort\Client_son_hali\Client\ProjectClient\obj\Debug\ProjectClient.exe
+C:\Users\deniz\Desktop\Soph2\CS408\proje\zort\Client_son_hali\Client\ProjectClient\obj\Debug\ProjectClient.pdb
+C:\Users\USER\Documents\fall_2021\cs408\project\bilgesucakir_Cakir_Bilgesu_Step3\Client_son_hali\Client\ProjectClient\bin\Debug\ProjectClient.exe.config
+C:\Users\USER\Documents\fall_2021\cs408\project\bilgesucakir_Cakir_Bilgesu_Step3\Client_son_hali\Client\ProjectClient\obj\Debug\ProjectClient.exe
+C:\Users\USER\Documents\fall_2021\cs408\project\bilgesucakir_Cakir_Bilgesu_Step3\Client_son_hali\Client\ProjectClient\obj\Debug\ProjectClient.pdb
+C:\Users\USER\Documents\fall_2021\cs408\project\bilgesucakir_Cakir_Bilgesu_Step3\Client_son_hali\Client\ProjectClient\bin\Debug\ProjectClient.exe
+C:\Users\USER\Documents\fall_2021\cs408\project\bilgesucakir_Cakir_Bilgesu_Step3\Client_son_hali\Client\ProjectClient\bin\Debug\ProjectClient.pdb
+C:\Users\USER\Documents\fall_2021\cs408\project\bilgesucakir_Cakir_Bilgesu_Step3\Client_son_hali\Client\ProjectClient\obj\Debug\ProjectClient.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\fall_2021\cs408\project\bilgesucakir_Cakir_Bilgesu_Step3\Client_son_hali\Client\ProjectClient\obj\Debug\ProjectClient.Form1.resources
+C:\Users\USER\Documents\fall_2021\cs408\project\bilgesucakir_Cakir_Bilgesu_Step3\Client_son_hali\Client\ProjectClient\obj\Debug\ProjectClient.Properties.Resources.resources
+C:\Users\USER\Documents\fall_2021\cs408\project\bilgesucakir_Cakir_Bilgesu_Step3\Client_son_hali\Client\ProjectClient\obj\Debug\ProjectClient.csproj.GenerateResource.Cache

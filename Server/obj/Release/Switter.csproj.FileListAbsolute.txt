@@ -1,0 +1,10 @@
+C:\Users\yasin\Desktop\ENSONNN\Switter\bin\Release\Switter.exe.config
+C:\Users\yasin\Desktop\ENSONNN\Switter\bin\Release\Switter.exe
+C:\Users\yasin\Desktop\ENSONNN\Switter\bin\Release\Switter.pdb
+C:\Users\yasin\Desktop\ENSONNN\Switter\obj\Release\Switter.csproj.AssemblyReference.cache
+C:\Users\yasin\Desktop\ENSONNN\Switter\obj\Release\Switter.Properties.Resources.resources
+C:\Users\yasin\Desktop\ENSONNN\Switter\obj\Release\Switter.Server.resources
+C:\Users\yasin\Desktop\ENSONNN\Switter\obj\Release\Switter.csproj.GenerateResource.cache
+C:\Users\yasin\Desktop\ENSONNN\Switter\obj\Release\Switter.csproj.CoreCompileInputs.cache
+C:\Users\yasin\Desktop\ENSONNN\Switter\obj\Release\Switter.exe
+C:\Users\yasin\Desktop\ENSONNN\Switter\obj\Release\Switter.pdb
